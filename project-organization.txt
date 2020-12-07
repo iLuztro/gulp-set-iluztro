@@ -1,0 +1,41 @@
+Tasks:
+
+-html-min
+-styles
+-babel
+      javascript
+-views
+-sass
+-clean
+-imgmin
+-typescript
+-default
+
+Watchers:
+
+html
+css
+pug
+scss
+js
+typescript
+
+
+Projects files structure
+
+// SCSS
+
+- base
+- blocks
+- config
+- helpers
+- mixins
+- pages
+
+// PUG
+
+- config
+- includes
+- pages
+- templates
+
